@@ -242,11 +242,11 @@ package body ada_main is
    end;
 
 --  BEGIN Object file/option list
-   --   C:\Users\Arkhen\Documents\GitHub\playwitharrysV3\obj\playwitharrays.o
-   --   C:\Users\Arkhen\Documents\GitHub\playwitharrysV3\obj\test_assertions.o
-   --   C:\Users\Arkhen\Documents\GitHub\playwitharrysV3\obj\test_playwitharrays.o
-   --   -LC:\Users\Arkhen\Documents\GitHub\playwitharrysV3\obj\
-   --   -LC:\Users\Arkhen\Documents\GitHub\playwitharrysV3\obj\
+   --   C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\obj\playwitharrays.o
+   --   C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\obj\test_assertions.o
+   --   C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\obj\test_playwitharrays.o
+   --   -LC:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\obj\
+   --   -LC:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\obj\
    --   -LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
    --   -static
    --   -lgnat

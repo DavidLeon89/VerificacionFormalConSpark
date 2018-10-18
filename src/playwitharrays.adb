@@ -6,7 +6,7 @@ package body playWithArrays with SPARK_Mode => On is
       res : T_Table (Table'First .. Table'Last) := (others => 0);
    begin
       if (Table'Length - 1) = (Table_2'Length - 1) and Table'First = Table_2'First and
-      res'First = 0  then
+      res'First = 0  and Table'Last = Table_2'Last then
 
          if Table'First = Table'Last then
             res(0) := Table(0);
